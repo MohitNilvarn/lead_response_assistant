@@ -1,0 +1,22 @@
+# ── Render Blueprint ─────────────────────────────────────────────────────
+# Deploy with: https://render.com/docs/blueprint-spec
+
+services:
+  - type: web
+    name: urbanroof-lead-assistant
+    runtime: python
+    region: oregon
+    plan: starter          # 512 MB RAM minimum (sentence-transformers + torch need ~1 GB)
+    buildCommand: pip install --no-cache-dir -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false        # you'll set this manually in the Render dashboard
+      - key: PYTHON_VERSION
+        value: "3.11.11"
+      - key: GROQ_MODEL_NAME
+        value: llama-3.3-70b-versatile
+      - key: EMBEDDING_MODEL_NAME
+        value: sentence-transformers/all-MiniLM-L6-v2
+      - key: LOG_LEVEL
+        value: INFO

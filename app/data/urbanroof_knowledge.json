@@ -1,0 +1,112 @@
+{
+  "company_info": [
+    {
+      "topic": "About UrbanRoof",
+      "content": "For over 7 years, UrbanRoof has been setting new benchmarks in the home repair and waterproofing industry. As a trusted name in structural safety, we have established ourselves as pioneers by combining engineering expertise with advanced diagnostic technology. Our mission is to ensure that every home remains strong, durable, and protected from water damage and related structural concerns."
+    },
+    {
+      "topic": "UrbanRoof Team Expertise",
+      "content": "Our team of skilled civil engineers specialises in identifying leakages, seepage, and other wall and roof issues through cutting-edge thermal scanning techniques. This allows us to deliver precise assessments and recommend long-lasting, effective waterproofing solutions. By partnering with reliable vendors, we make sure that homeowners receive services that guarantee both protection and peace of mind."
+    },
+    {
+      "topic": "UrbanRoof Mission and Vision",
+      "content": "Urbanroof was born from the vision to create awareness and offer preventive-based solutions for the care and maintenance of construction properties. Just as a regular health check-up can catch issues before they become major health problems, Urbanroof's services aim to detect structural and interior issues in properties before they escalate. Urbanroof is more than just a startup; it's a movement to change the way we care for our properties."
+    },
+    {
+      "topic": "UrbanRoof Founding Story",
+      "content": "In 2017, the founder of Urbanroof identified a significant gap in the construction industry. While the healthcare sector was working relentlessly to make people aware of preventive health measures, no one seemed to be doing the same for homes, workspaces and building structures. This led to the creation of UrbanRoof to provide preventive property care."
+    },
+    {
+      "topic": "Why Choose UrbanRoof - Early Detection",
+      "content": "UrbanRoof's experts use advanced technology to identify structural weaknesses and interior issues, ensuring problems are resolved before becoming costly. Early detection saves homeowners from expensive repairs later."
+    },
+    {
+      "topic": "Why Choose UrbanRoof - Hassle-Free Living",
+      "content": "Preventing major issues spares property owners from repair stress, ensuring peace of mind and carefree living. UrbanRoof handles the complexity so you don't have to."
+    },
+    {
+      "topic": "Why Choose UrbanRoof - Empowering Consumers",
+      "content": "UrbanRoof empowers clients with construction know-how for wise choices, helping them avoid excessive influence from industry players. Education and transparency are core values."
+    },
+    {
+      "topic": "Why Choose UrbanRoof - Increased Valuation",
+      "content": "Well-maintained properties are valuable assets. UrbanRoof's preventive care saves money and increases overall property value through proactive maintenance."
+    }
+  ],
+  "services": [
+    {
+      "topic": "Thermal Scanning and Inspection",
+      "content": "UrbanRoof uses cutting-edge thermal scanning techniques to identify hidden leakages, seepage paths, and moisture pockets in walls, roofs, and floors. This non-invasive diagnostic method pinpoints exact problem areas without any demolition, enabling targeted and cost-effective repairs."
+    },
+    {
+      "topic": "Waterproofing Solutions",
+      "content": "UrbanRoof provides comprehensive waterproofing solutions for roofs, terraces, bathrooms, basements, and external walls. Solutions are customized based on the specific issue identified during thermal scanning inspection. All solutions are implemented by certified professionals using industry-grade materials."
+    },
+    {
+      "topic": "Wall and Roof Repair Services",
+      "content": "UrbanRoof handles wall repair for issues including dampness, seepage, plaster damage, and cracks. Roof repair services address leakages, waterproofing membrane failures, and structural concerns. Each repair is preceded by a thorough diagnostic assessment."
+    },
+    {
+      "topic": "Preventive Property Care",
+      "content": "UrbanRoof offers preventive property care programs designed to detect and address structural and interior issues before they escalate. Regular inspections and maintenance help extend building lifespan, reduce repair costs, and maintain property value."
+    },
+    {
+      "topic": "Property Assessment and Consultation",
+      "content": "UrbanRoof provides professional property assessment and consultation services. Our civil engineers conduct thorough on-site inspections using advanced diagnostic tools to evaluate the structural health of your property and recommend appropriate solutions."
+    }
+  ],
+  "common_issues": [
+    {
+      "topic": "Damp Patches on Walls",
+      "content": "Damp patches on walls, especially after rains, are usually caused by water seepage through external walls, failed waterproofing, cracks in the building envelope, or poor drainage. This requires professional inspection to identify the exact source of moisture ingress. UrbanRoof uses thermal scanning to precisely locate the seepage path without any demolition."
+    },
+    {
+      "topic": "Roof Leakage During Monsoon",
+      "content": "Roof leakage during monsoon or heavy rains indicates deteriorated waterproofing membrane, cracks in the roof slab, or improper slope causing water pooling. A professional thermal scan inspection can identify the exact leak points. The repair approach depends on the specific issue found during inspection."
+    },
+    {
+      "topic": "Bathroom Leakage and Seepage",
+      "content": "Bathroom leakage and seepage can occur due to failed waterproofing around fixtures, cracked tiles, deteriorated grouting, or pipe leaks. These issues can affect adjacent rooms and floors below. Thermal scanning helps identify the exact source without breaking tiles unnecessarily."
+    },
+    {
+      "topic": "Basement Water Seepage",
+      "content": "Basement water seepage is often caused by hydrostatic pressure from groundwater, cracks in basement walls, or poor external waterproofing. This is a serious structural concern that requires professional assessment and targeted waterproofing solutions."
+    },
+    {
+      "topic": "Paint Peeling and Efflorescence",
+      "content": "Paint peeling, bubbling, or white salt deposits (efflorescence) on walls are symptoms of underlying moisture problems. Simply repainting will not solve the issue. The root cause of moisture ingress must be identified and addressed through professional inspection and appropriate waterproofing."
+    },
+    {
+      "topic": "Cracks in Walls and Ceiling",
+      "content": "Cracks in walls and ceilings can be cosmetic (surface-level) or structural. Some cracks allow water ingress which worsens over time. Professional assessment is needed to determine the type and severity of cracks and recommend appropriate repair methods."
+    },
+    {
+      "topic": "Terrace Waterproofing Failure",
+      "content": "Terrace waterproofing can fail due to weathering, UV degradation, thermal expansion, or poor original application. Signs include water stains on the ceiling below, dampness, and paint peeling. Re-waterproofing requires proper surface preparation and application of appropriate waterproofing systems."
+    }
+  ],
+  "process_info": [
+    {
+      "topic": "UrbanRoof Service Process",
+      "content": "UrbanRoof follows a systematic process: Step 1 - Customer contacts us with their concern. Step 2 - We schedule a professional thermal scanning inspection at a convenient time. Step 3 - Our civil engineers conduct a thorough on-site diagnostic assessment. Step 4 - We provide a detailed report with findings and recommended solutions. Step 5 - Upon approval, our certified team executes the repair/waterproofing work."
+    },
+    {
+      "topic": "UrbanRoof Inspection Process",
+      "content": "UrbanRoof's inspection involves a certified civil engineer visiting the property with thermal scanning equipment. The inspection is non-invasive and does not require any demolition. The thermal scan identifies hidden moisture, seepage paths, and temperature variations that indicate problem areas. A detailed report with images and recommendations is provided after the inspection."
+    },
+    {
+      "topic": "Pricing and Cost Information",
+      "content": "UrbanRoof's pricing depends on the specific issue, area affected, and the solution required. An accurate cost estimate can only be provided after a professional on-site inspection and assessment. We do not provide estimates without inspection as each property and issue is unique. The inspection fee covers the diagnostic assessment and detailed report."
+    }
+  ],
+  "safety_guidelines": [
+    {
+      "topic": "What Homeowners Should NOT Do",
+      "content": "Homeowners should avoid: attempting DIY waterproofing without professional assessment (may worsen the issue), ignoring early signs of dampness or leakage (issues escalate over time), covering up damp patches with paint without addressing root cause, breaking walls or tiles to find leak source without professional guidance, and using generic waterproofing products without knowing the specific issue."
+    },
+    {
+      "topic": "Immediate Steps for Water Damage",
+      "content": "If you notice active water leakage or seepage: move furniture and valuables away from the affected area, wipe off excess water to prevent floor damage, ensure electrical points near the affected area are switched off for safety, take photos of the damage for documentation, and contact a professional service like UrbanRoof for assessment."
+    }
+  ]
+}
