@@ -10,13 +10,18 @@ from __future__ import annotations
 import logging
 import sys
 from contextlib import asynccontextmanager
+from pathlib import Path
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import FileResponse
+from fastapi.staticfiles import StaticFiles
 
 from app.api.routes import router
 from app.config import get_settings
 from app.core.knowledge_base import get_knowledge_base
+
+STATIC_DIR = Path(__file__).resolve().parent.parent / "static"
 
 
 def _configure_logging() -> None:
@@ -82,6 +87,13 @@ def create_app() -> FastAPI:
 
     # ── Register routes ──────────────────────────────────────────────
     app.include_router(router)
+
+    # ── Serve static frontend ────────────────────────────────────────
+    app.mount("/static", StaticFiles(directory=str(STATIC_DIR)), name="static")
+
+    @app.get("/", include_in_schema=False)
+    async def root():
+        return FileResponse(STATIC_DIR / "index.html")
 
     return app
 
