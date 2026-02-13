@@ -6,8 +6,8 @@ services:
     name: urbanroof-lead-assistant
     runtime: python
     region: oregon
-    plan: starter          # 512 MB RAM minimum (sentence-transformers + torch need ~1 GB)
-    buildCommand: pip install --no-cache-dir -r requirements.txt
+    plan: starter
+    buildCommand: chmod +x render-build.sh && ./render-build.sh
     startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
     envVars:
       - key: GROQ_API_KEY

@@ -8,7 +8,7 @@ pydantic-settings==2.7.1
 groq==0.15.0
 sentence-transformers>=3.3.0
 transformers>=4.47.0
-torch>=2.0.0
+# torch is installed separately via render-build.sh (CPU-only, saves ~1.8 GB)
 
 # ── Vector Store ─────────────────────────────────────────────────────────
 faiss-cpu>=1.9.0
